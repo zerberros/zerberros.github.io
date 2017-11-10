@@ -1,12 +1,13 @@
-# Hola Mundo
-
-{{ site.github.owner_url }}
-{{ site.github.owner_name }}
-{{ site.github }}
-{{ repository.name }}
-{{ repository.html_url }}
+---
+layout: default
+title: index
+---
 
 
-{{ site.url }}
-
-{{ page.title }}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
