@@ -36,7 +36,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-	  <h2> {{ site.subtitle  }}  </h2>
+	  <h2 style="display: inline"> {{ site.subtitle  }}  </h2>
 	  <div style="text-align:right">
 		  <a href="https://zerberros.github.io">home</a> &nbsp; &nbsp;
 		  <a href="https://zerberros.github.io/about.html">about</a>
@@ -51,6 +51,8 @@
       </section>
 
     </div>
+    
+    {% include footer.html  %}
 
     {% if site.google_analytics %}
       <script type="text/javascript">

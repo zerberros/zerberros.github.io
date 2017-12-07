@@ -7,7 +7,7 @@ email: cerverros@gmail.com
 github_username: zerberros
 url: http://zerberros.github.io
 repository: zerberros/zerberros.github.io
-
+author: Zerberros
 
 markdown: kramdown
 theme: jekyll-theme-midnight
