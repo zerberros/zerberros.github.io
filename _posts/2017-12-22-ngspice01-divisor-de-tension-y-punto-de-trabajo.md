@@ -4,7 +4,7 @@
 
 <iframe width="650" height="366" src="https://www.youtube.com/embed/4tUSx0qRLXY" frameborder="0" allowfullscreen> </iframe>
 
-[enlace al videotutorial](https://youtu.be/4tUSx0qRLXY)
+
 
 ### En resumen:
 
