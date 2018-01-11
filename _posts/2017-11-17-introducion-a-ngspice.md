@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Introducción a ngspice"
+date: 2017-11-17
+---
+
+
 ## Introdución a NGSPICE    
 
 

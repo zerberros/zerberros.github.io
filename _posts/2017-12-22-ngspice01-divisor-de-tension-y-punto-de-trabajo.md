@@ -1,11 +1,18 @@
+---
+layout: default
+title: "ngspice:01 Divisor de tensión y punto de trabajo"
+date: 2017-12-22
+---
+
+
 ## NGSPICE01: Divisor de tensión y simulación del Punto de operación
 
 
 
 <iframe width="650" height="366" src="https://www.youtube.com/embed/4tUSx0qRLXY" frameborder="0" allowfullscreen> </iframe>
 
-
-
+** NOTA: Éste vídeo será reemplazado en un futuro debido a la presencia de algunos fallos y carencia de calidad. 
+**
 ### En resumen:
 
 
