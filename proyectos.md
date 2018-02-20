@@ -1,18 +1,22 @@
 ---
-layout: default
+layout: proyectos
 title: proyectos
 ---
 
 
+  {% for proyect in site.categories.proyectos %}
 
-## Preamplificador para Sound-System
+## {{ proyect.title }}
 
-![kill-switch preamp ](./assets/kill_switch_01.jpg)
+![ {{  proyect.title}}  ]( {{ proyect.foto }} )
 
-## Tarjeta de sonido USB modular
+{{  proyect.resumen  }}
 
-![furier soundcard ](assets/furier_01.jpg)
 
-## Amplificador de Potencia de Clase-D
+{% if proyect.enlace %}
+[ archivos fuente ]( {{  proyect.enlace  }} )
 
-![Amplificador ](assets/clase_d_01.jpg)
+{% endif %}
+-----
+
+  {% endfor %}
