@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ngspice:03 Simulaciones. Parte 1."
+title: "ngspice:02 Simulaciones. Parte 1."
 date: 2018-04-04
 resumen: Cómo funciona una Análisis de punto de trabajo, análisis transitorio, y un análisis de pequeña señal.
 category: blog
