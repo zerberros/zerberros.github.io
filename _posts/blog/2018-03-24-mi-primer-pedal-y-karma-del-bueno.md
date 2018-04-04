@@ -23,7 +23,7 @@ Pues nada, ya de vuelta a Burgos, monto el pedal y el resultado es el que podeis
 
 ![Ya está casi terminado](/assets/blog/pedal_03.jpg)
 
-La tienda donde compré las cuerdas es está:
+La tienda donde compré las cuerdas es esta:
   *  [De Gier Guitars & Basses](https://www.degierguitars.com/).
   *  Admiraal Lucashof 15, 3115 HM Schiedam, Países Bajos
 
