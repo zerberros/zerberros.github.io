@@ -2,7 +2,7 @@
 layout: default
 title: "Cierro github."
 date: 2026-03-25
-resumen: Cómo funciona una Análisis de punto de trabajo, análisis transitorio, y un análisis de pequeña señal.
+resumen: Cierro github. Nos vemos en gitlab.
 category: blog
 ---
 
